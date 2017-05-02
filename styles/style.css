@@ -1,0 +1,68 @@
+html{
+	background-color:  #4e5744;
+	font-size: 15px;
+	 font-family: 'Oswald', sans-serif; 
+}
+body{
+	width: 650px;
+	margin: 30px auto;
+	background-color: #f0f095;
+	padding: 0 20px 20px 20px;
+	border: 5px solid	black;
+}
+
+h1{
+	margin: 0;
+	padding: 20px 0;
+	color:  #00539F;
+	text-shadow: 4px 5px 10px black; /*4px-смещение по оси Х,5px-смещение по оси Y,10px- размытость*/
+	font-size: 60px;
+	text-align: center;
+}
+p,li{
+	font-size: 16px;
+	line-height: 18px; /*Высота строки*/
+	letter-spacing: 1px;/*Расстояние между буквами*/
+}
+ img{
+ 	display: block;
+ 	margin: 0 auto;
+ }
+
+
+/* Изменения для всех элементов p
+p {
+	color:red;
+	width: 300px;
+	border: 1px solid black;
+}
+*/
+/* Изменения для определенного класса 
+.attribute {
+color: yellow;
+}
+*/
+/* Множественный выбор элементов
+h1,h2 {
+	color:green;
+	width: 350px;
+	border: 1px solid green;
+}
+*/
+/*Изменения для определенного id селектора
+#h3 {
+	color:red;
+}
+*/
+/*Изменения для Фото
+img[src] {
+border: 20px solid black;
+}
+*/
+/*Изменения при наведении
+a:hover{
+	color: gold;
+	font-size: 30px;
+}
+*/
+
