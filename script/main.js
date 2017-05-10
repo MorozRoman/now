@@ -80,3 +80,32 @@ document.querySelector('h1').onclick=function () {
 // }else { 
 // 	alert('Похоже ты не Админушка!');
 // }
+
+
+
+//------эксперименты (:
+// function fn(1,2) {
+// 	return a+b;
+// }
+// console.log(fn());
+// var f=fn();
+// alert('f=' + f);
+// function returnFnResult(fn) {
+//     return fn();
+// }
+
+// function sum(arg1,arg2)
+// {
+// 	var a=arg1+arg2;
+// 	return a;
+// }
+// var b=sum(5,2);
+// alert(b);
+ 
+// function add()
+// {
+// 	var c=1+sum(1,2);
+// 	return c;
+// }
+// var d=add();
+// alert(d);
